@@ -1,0 +1,6 @@
+Financial Analysis:
+The total number of months analyzed in this period is 86.
+During the past 86 months, the accumulative net profit was $38382578.
+The mean of the month-over-month change in sales is $-2315.12.
+The greatest decrease in the month-over-month profit occurred in Sep-2013 with a value $-2196167.
+The greatest increase in the month-over-month profit occurred in Feb-2012 with a value $1926159.
